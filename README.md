@@ -1,2 +1,1 @@
-# CV
-A test HTML page for learning purposes
+TinDog Starting Files
